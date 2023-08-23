@@ -1,0 +1,8 @@
+name = "momento-cloudflare-worker-http"
+compatibility_date = "2023-07-10"
+
+[vars]
+ORIGIN_HOST = 'xxxxxx'
+MOMENTO_REST_ENDPOINT = "xxxxxxxxx"
+MOMENTO_CACHE_NAME = "worker"
+MOMENTO_AUTH_TOKEN = "xxxxx"
